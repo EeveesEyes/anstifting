@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Angestiftet
 
-You can use the [editor on GitHub](https://github.com/EeveesEyes/anstifting/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Angestiftet is a collection of our past pen and paper adventures and settings in German, which should serve as inspiration for everyone to create their own adventures. 
+In the future we will add more adventures and translate them into English if possible.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Upcoming adventures will take place in various settings like:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EeveesEyes/anstifting/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- France in 1950s
+- the artus legend, but with magic
+- a custom cyberpunk world
+- the Orient Express in 1909
