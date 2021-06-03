@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adventures on Anstiftung ✏️</title>
-    <link>anstiftung.github.io/docs/</link>
+    <link>https://eeveeseyes.github.io/anstiftung.github.io/docs/</link>
     <description>Recent content in Adventures on Anstiftung ✏️</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.twitter.com/eeveeseyes/&#34;&gt;Adrian Kailus&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="anstiftung.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eeveeseyes.github.io/anstiftung.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
