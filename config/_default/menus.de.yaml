@@ -1,0 +1,12 @@
+main:
+  - name: Über
+    url: '#about'
+    weight: 1
+#  - name: Posts
+#    url: /posts/
+#    weight: 2
+  - name: Abenteuer
+    url: /docs/
+    weight: 3
+  - name: Autoren
+    url: /authors/
