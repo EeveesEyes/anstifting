@@ -34,6 +34,9 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
             
+      - name: npm install
+        uses: Jaid/action-npm-install@v1.2.4      
+            
       - name: Build
         run: hugo --minify
 
