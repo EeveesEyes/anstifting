@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Anstiftung ✏️</title>
-    <link>https://eeveeseyes.github.io/anstiftung.github.io/de/categories/</link>
+    <link>anstiftung.github.io/de/categories/</link>
     <description>Recent content in Categories on Anstiftung ✏️</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.twitter.com/eeveeseyes/&#34;&gt;Adrian Kailus&lt;/a&gt;
-</copyright><atom:link href="https://eeveeseyes.github.io/anstiftung.github.io/de/categories/index.xml" rel="self" type="application/rss+xml" />
+</copyright><atom:link href="anstiftung.github.io/de/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
